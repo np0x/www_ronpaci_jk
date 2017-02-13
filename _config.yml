@@ -1,10 +1,9 @@
 # Mandatory settings
-
 name: Chalk
 paginate: 25
 paginate_path: "/posts/page/:num/"
-url: # add site url http://example.com/
-blog_theme: light # Or use dark
+url: http://jk.ronpaci.com # add site url http://example.com/
+blog_theme: dark # Or use dark/light
 
 # Optional settings
 
@@ -19,7 +18,7 @@ social:
   github: # Add your GitHub handle
   linkedin: # Add your LinkedIn handle
   twitter: # Add your Twitter handle
-  email: # Add your Email address
+  email: ronpaci@gmail.com # Add your Email address
   bitcoin: # Add your Bitcoin link or address
 
 # Important settings (change at own risk)
